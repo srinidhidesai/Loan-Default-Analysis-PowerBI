@@ -3,13 +3,9 @@ Project Description
 
 This project involves building an interactive Power BI dashboard using synthetic loan data to analyze loan distribution, borrower demographics, and default trends. DAX measures such as Year-over-Year (YoY) and Year-to-Date (YTD) are used to understand loan growth and financial risk patterns. This project was created for learning and portfolio purposes.
 
-# Data Disclaimer
-
+# Dataset Overview
 The dataset used in this project is synthetic (fake) data generated for practice and learning. It does not represent real customers, real loans, or any financial institution.
-
-#Dataset Overview
-
-The synthetic dataset includes the following fields:
+The  dataset includes the following fields:
 Loan amount, loan purpose, and loan date
 Applicant age  and marital status
 Employment type
